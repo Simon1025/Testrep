@@ -1,2 +1,1 @@
-Hallo, Welt!
-Dies ist eine neue Funktion.
+Ein Update mit Behobenem Fehler!
